@@ -211,10 +211,10 @@ function dd($array){
 }
 //======================================================================= D B =======================================================================
 
-$Admin=new DB('admin');
-// $Admin=new DB('resume_admins');
-$Information=new DB('information');
-// $Information=new DB('resume_informations');
+// $Admin=new DB('admin');
+$Admin=new DB('resume_admins');
+// $Information=new DB('information');
+$Information=new DB('resume_informations');
 
 
 ?>
