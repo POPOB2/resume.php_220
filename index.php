@@ -208,17 +208,13 @@ include_once "./api/base.php";
         <p>工作與學習經歷</p>
       </div>
 
-      <div class="row">
+      <!-- <div class="row"> -->
         <div class="col-lg-6">
-          <h3 class="resume-title">Sumary</h3>
           <div class="resume-item pb-0">
-            <h4>泰山職訓局</h4>
+            <h4>泰山職訓局-PHP資料庫網頁設計班</h4>
             <p><em>對網頁開發感到興趣而參加職訓局的PHP資料庫網頁設計班</em></p>
             <p>
             <ul>
-              <li>新北市泰山區貴子里致遠新村55之1號</li>
-              <li>(02) 3345678-3345678</li>
-              <li>nft192891@gmail.com</li>
             </ul>
             </p>
           </div>
@@ -226,15 +222,12 @@ include_once "./api/base.php";
           <h3 class="resume-title"></h3>
           <div class="resume-item">
             <h4>LAYA-BURGER</h4>
-            <h5>寫上工作時間</h5>
             <p><em>蘆洲</em></p>
             <ul>
-            <li>想重新調整自己的職涯規劃, 先換一個工作時間穩定的早餐店一邊檢視與準備轉換跑道的行業</li>
-          </ul>
+            </ul>
           </div>
           <div class="resume-item">
             <h4>Cama café</h4>
-            <h5>寫上工作時間</h5>
             <p><em>忠孝新生 / 東門 / 松江</em></p>
             <ul>
               <li>為了學習更接近小型店家的經營模式與咖啡知識, 並學習烘豆技術而來到 Cama café</li>
@@ -242,22 +235,20 @@ include_once "./api/base.php";
           </div>
         </div>
         <div class="col-lg-6">
-          <h3 class="resume-title">Professional Experience</h3>
+          <!-- <h3 class="resume-title">Professional Experience</h3> -->
           <div class="resume-item">
-            <h4>星巴克 值班經理</h4>
-            <h5>寫上工作時間</h5>
+            <h4>星巴克-值班經理</h4>
             <p><em>信義區 / 新竹區 / 三蘆區 </em></p>
             <p>
             <ul>
-              <li>三蘆區 : &nbsp;申請調回三蘆區, 並再調到典藏門市後擔任管理職, 分擔門市管理 策畫門市行銷活動 與 教育訓練等</li>
-              <li>新竹區 : &nbsp;申請調動區組, 選擇讓自己換一個新環境認識並學習不同區組的工作模式與團隊經營, 認識更多不同個性的人 </li>
+              <li>三蘆區 : &nbsp;申請調回三蘆區, 並再調到典藏門市後擔任管理職, 分擔門市管理 規劃門市行銷活動 與 教育訓練等</li>
+              <li>新竹區 : &nbsp;選擇讓自己換一個新環境認識並學習不同區組的工作模式與團隊經營, 認識更多不同個性的人 </li>
               <li>信義區 : &nbsp;畢業後對於咖啡文化感到有興趣, 且目標藉由接觸顧客來改變自己內向的個性, 到此學習了的咖啡知識與和顧客互動的技巧</li>
             </ul>
             </p>
           </div>
           <div class="resume-item">
             <h4>貼紙印刷廠-學徒</h4>
-            <h5>寫上工作時間</h5>
             <p><em>高義貼紙印刷廠</em></p>
             <p>
             <ul>
@@ -267,7 +258,7 @@ include_once "./api/base.php";
             </p>
           </div>
         </div>
-      </div>
+      <!-- </div> -->
 
     </div>
   </section>
