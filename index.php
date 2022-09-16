@@ -330,7 +330,7 @@ include_once "./api/base.php";
               <h4>網頁設計-乙級術科第二題</h4>
               <p>PHP</p>
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/web4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/portfolio/web5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
                 <a href="https://popob2.github.io/Class_B_license_2_review/" target="_blank"><i class="bx bx-link"></i></a>
               </div>
             </div>
