@@ -325,6 +325,20 @@ include_once "./api/base.php";
 <!-- ----------------------------------------------------作品集:WEB---------------------------------------------------- -->
         <div class="col-lg-4 col-md-6 portfolio-item filter-web">
           <div class="portfolio-wrap">
+            <img src="assets/img/portfolio/web5.jpg" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <h4>網頁設計-乙級術科第二題</h4>
+              <p>PHP</p>
+              <div class="portfolio-links">
+                <a href="assets/img/portfolio/web4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+                <a href="https://popob2.github.io/Class_B_license_2_review/" target="_blank"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+          <div class="portfolio-wrap">
             <img src="assets/img/portfolio/web4.jpg" class="img-fluid" alt="">
             <div class="portfolio-info">
               <h4>氣象局_API</h4>
